@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyTransactionsAPI",
+    "\\MyTransactionsAPI\\Controllers",
+    "\\MyTransactionsAPI\\Data",
+    "\\MyTransactionsAPI\\Models",
+    "\\MyTransactionsAPI\\Models\\Domains"
+  ],
+  "SelectedNode": "\\MyTransactionsAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
